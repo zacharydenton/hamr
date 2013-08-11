@@ -1,0 +1,103 @@
+@import "normalize.less";
+@import "preboot.less";
+
+body {
+	font-family: @font-family-sans-serif;
+	line-height: @line-height-base;
+	background-color: #f1f3f6;
+	.retina-image("../img/paper_fibers.png", "../img/paper_fibers_@2X.png", 410, 410);
+	color: @text-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: @headings-font-family;
+	font-weight: @headings-font-weight;
+}
+
+h2 {
+	font-size: @size-huge;
+	margin-top: @size-base;
+	margin-bottom: @size-base;
+	border-bottom: @size-micro solid @text-color;
+}
+
+h3 {
+	font-size: @size-large;
+	margin-top: @size-small;
+	margin-bottom: @size-small;
+}
+
+ul {
+	margin-top: @size-base;
+	margin-bottom: @size-base;
+	padding-left: @size-base;
+}
+
+a {
+	color: @link-color;
+
+	&:hover {
+		color: @link-color-hover;
+	}
+}
+
+#container {
+	width: 35rem;
+	margin: 0 auto;
+
+	@media(max-width: 35rem) {
+		width: auto;
+		margin: 0 @size-base;
+	}
+}
+
+header {
+	text-align: center;
+	margin-top: @size-epic;
+	margin-bottom: @size-huge;
+	line-height: 1;
+
+	h1 {
+		margin: 0;
+		font-size: @size-epic;
+		font-family: "Stalinist One", @headings-font-family;
+		font-weight: 400;
+
+		a {
+			text-decoration: none;
+		}
+
+		@media(max-width: 35rem) {
+			font-size: @size-massive;
+		}
+	}
+
+	.tagline {
+		margin: 0;
+		font-size: @size-huge;
+		font-family: "Stalinist One", @headings-font-family;
+		font-weight: 400;
+		text-transform: uppercase;
+
+		@media(max-width: 35rem) {
+			font-size: @size-large;
+		}
+	}
+
+	.info {
+		margin: 0;
+		margin-top: @size-small;
+		text-transform: uppercase;
+	}
+}
+
+table {
+	margin-left: @size-base;
+
+	td {
+		&:first-child {
+			padding-right: @size-base;
+			font-weight: bold;
+		}
+	}
+}
