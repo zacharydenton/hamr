@@ -107,7 +107,7 @@ kick a soccer ball around. There is a drum set and piano on the
 premises. We encourage guests to **bring their instruments**.
 
 ### Travel
-The [Dartmouth Coach] has daily busses to/from New York and Boston. We have arranged the hackathon schedule so that it begins shortly after the first bus from NY arrives and ends shortly after the last bus to NY departs. The Dartmouth Coach to/from New York requires reservations. We suggest that tickets are booked early (they may be cancelled up to a day before travel).
+The [Dartmouth Coach] has daily busses to/from New York and Boston. We have arranged the hackathon schedule so that it begins shortly after the first bus from NY arrives on Friday and ends shortly before the last bus to NY departs on Sunday. The Dartmouth Coach to/from New York requires reservations. We suggest that tickets are booked early (they may be cancelled up to a day before travel).
 
 We will provide shuttles or some other means of transportation to/from the Dartmouth Coach bus stop and Pierce's Inn.
 
