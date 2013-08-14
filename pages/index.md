@@ -72,8 +72,8 @@ Register at [Eventbrite][registration].
 
 Stay Connected
 --------------
--	Any questions? Contact [Andy Sarroff].
--	Have a project in mind? Post it on the wiki
+-	Any questions? Contact [Andy Sarroff]
+-	Have a project in mind? Register yourself and post it on the [wiki]
 -	Join the Google [HAMR discussion group][group] and post freely
 
 Details
@@ -134,3 +134,4 @@ Sponsorship
 [registration]: https://hamr-in-the-woods.eventbrite.com/
 [group]: https://groups.google.com/forum/#!forum/hamr-discuss
 [Dartmouth Coach]: http://www.dartmouthcoach.com/
+[wiki]: http://digitalmusics.dartmouth.edu/~hamr/dokuwiki/
