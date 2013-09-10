@@ -36,6 +36,9 @@ Schedule
   4:00--6:00     Introductions, project pitches, and keynote speaker
   6:00--7:00     Dinner
   7:00--11:00    Hacking! (Use this time to form teams and plan your hack.)
+  9:00--11:00    Performance by Tristan Perich and The Meehan/Perkins 
+                 Percussion Duo. (Optional, transportation  will be 
+                 provided. [More information].)
   11:00--12:00   Social hour and music jam session
   -------------- -------------------------------------------------------------
 
@@ -94,14 +97,14 @@ nontraditional setting. Another social hour will wrap up Saturday
 evening.
 
 Participants will be encouraged to spend Sunday morning
-documenting their work on an event wiki. Each group will present their
+documenting their work on the [wiki]. Each group will present their
 final hack before lunch. During lunch participants will vote on awards. The
 award ceremony will occur after lunch. Participants will vacate the Inn
 by 3 PM.
 
 ### Venue
 The [Pierce's Inn][] is located in Etna, NH. There is lodging capacity
-for up to 40 guests and ample work space. Six meals will be provided. (Dietary coinstraints can be given at the registration site.) Hiking trails are located
+for up to 40 guests and ample work space. Six meals will be provided. (Dietary constraints can be given at the registration site.) Hiking trails are located
 nearby and there is a large lawn to throw a frisbee, play croquet, or
 kick a soccer ball around. There is a drum set and piano on the
 premises. We encourage guests to **bring their instruments**.
@@ -135,3 +138,4 @@ Sponsorship
 [group]: https://groups.google.com/forum/#!forum/hamr-discuss
 [Dartmouth Coach]: http://www.dartmouthcoach.com/
 [wiki]: http://digitalmusics.dartmouth.edu/~hamr/dokuwiki/
+[More information]: https://hop.dartmouth.edu/Online/tristan_perich
